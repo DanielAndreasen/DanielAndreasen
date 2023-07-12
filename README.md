@@ -2,7 +2,7 @@
 
 I'm a former astronomer with research interests in stellar high precision spectroscopy. Now I'm a bioinformatician with an interest in especially somatic sequencing.
 
-[![Daniel's Github Stats](https://github-readme-stats.vercel.app/api?username=DanielAndreasen&count_private=true&theme=gruvbox)]
+![Daniel's Github Stats](https://github-readme-stats.vercel.app/api?username=DanielAndreasen&count_private=true&theme=gruvbox)
 
 <!--
 **DanielAndreasen/DanielAndreasen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
